@@ -163,6 +163,30 @@
 
 }
 
+.Instagram-section{
+    padding: 50px 180px 100px 180px ;
+}
+.inst-text{
+    text-align: center;
+}
+.flowers{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.flowers img{
+    width: 24%;
+}
+.inst-text p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 30px;
+
+}
 
 
 
