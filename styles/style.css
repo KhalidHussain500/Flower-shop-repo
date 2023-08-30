@@ -173,19 +173,9 @@
 
 .cover-parent{
     padding: 50px 180px 50px 180px;
-    
 }
-.cover{
-    background-image: url('../Flower Asset/Rectangle\ 9.png');
-    background-position:center;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-position:center;
-    height: 300px;
-    width: 100%;
-    text-align: center;
-    align-items: center;
-    padding-top: 50px;
+.cover{ 
+    /*  */
 }
 .email{
     font-size: 15px;
