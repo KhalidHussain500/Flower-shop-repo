@@ -118,7 +118,7 @@
 .card-b p{
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 600;
@@ -139,7 +139,7 @@
 .text-parent p{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
@@ -163,11 +163,27 @@
 .inst-text p{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
     padding-bottom: 30px;
+
+}
+.products-section{
+    padding: 50px 180px 50px 180px;
+}
+
+.products{
+    display: flex;
+    justify-content: space-between;
+}
+.product-card h1, h2{
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+.product-card{
+    text-align: center;
 
 }
 
