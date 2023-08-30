@@ -177,6 +177,7 @@
 .products{
     display: flex;
     justify-content: space-between;
+    background-color:ghostwhite;
 }
 .product-card h1, h2{
     font-family: 'Lato', sans-serif;
