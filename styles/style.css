@@ -172,7 +172,7 @@
 }
 
 .cover-parent{
-    padding: 50px 180px 50px 180px;
+    /* padding: 50px 180px 50px 180px; */
     
 }
 .cover{
@@ -184,7 +184,6 @@
     height: 300px;
     width: 100%;
     text-align: center;
-    align-items: center;
     align-items: center;
     padding-top: 50px;
 }
